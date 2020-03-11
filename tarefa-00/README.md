@@ -1,2 +1,2 @@
-<p>Teste</p>
-Repositório de <h1>EDL</h1>
+<h1>Teste</h1>
+Repositório de <strong>EDL</strong>
