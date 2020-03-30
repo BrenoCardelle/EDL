@@ -1,0 +1,33 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _5_ListaDeExercicios
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Exercícios propostos pelo URI: ");
+            string total =
+@"1480 - O famoso Campo Minado
+1532 - Arremesso de Bolas
+1769 - CPF 1
+1879 - Bridge
+1934 - Quebra-cabeça
+1935 - Espiral
+2178 - Lagoa Azul
+2318 - Quadrado Mágico
+2355 - Brasil e Alemanha
+2449 - Fechadura
+2452 - Semente
+2564 - Troca ou Não Troca
+3006 - Passeio em Copacabana";
+            Console.WriteLine(total + "\n");
+            Console.WriteLine("\nEntre com os exercicios feitos: ");
+            Console.ReadLine();
+        }
+    }
+}
